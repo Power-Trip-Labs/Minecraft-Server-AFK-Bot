@@ -1,13 +1,13 @@
 # Minecraft Server AFK Bot
-An AFK Bot for Minecraft Servers, such as Aternos.
+An AFK Bot for Minecraft Servers.
 
 ## Dependencies
-If you are building from source, please install these NodeJS modules:
+If you are building from source, install these NodeJS modules:
 - mineflayer
 - mineflayer-pathfinder
 - minecraft-data
 
 ## Install
-To install, simply click [here](https://github.com/InsanePowerTrip/Minecraft-Server-AFK-Bot/releases/latest) and follow the instructions.
+To install, go to the latest release and follow the instructions.
 
 It's that simple!
