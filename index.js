@@ -106,7 +106,6 @@ function createBot() {
 			if (key === '\u0003') process.exit();
 			if (key.toLowerCase() === 'e') {
 				console.log('Running script.js...');
-        console.log('Learn more in our GitHub page, Power-Trip-Labs/Minecraft-Server-AFK-Bot');
 				try {
 					delete require.cache[require.resolve('./script.js')];
 					const userScript = require('./script.js');
@@ -139,3 +138,4 @@ function createBot() {
 }
 
 createBot();
+
