@@ -1,6 +1,7 @@
 # Minecraft Server AFK Bot
 An AFK Bot for Minecraft Servers.
 
+Currently, this program only supports online-mode=false.
 ## Dependencies
 If you are building from source, install these NodeJS modules:
 - mineflayer
