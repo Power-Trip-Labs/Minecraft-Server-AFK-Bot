@@ -1,4 +1,7 @@
 # Minecraft Server AFK Bot
+![Beta](https://img.shields.io/badge/Status-Beta-orange)
+![offline false](https://img.shields.io/badge/Supports-online--mode%3Dfalse-gold)
+
 An AFK Bot for Minecraft Servers.
 
 Currently, this program only supports online-mode=false.
