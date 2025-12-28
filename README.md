@@ -1,4 +1,4 @@
-# Minecraft Server AFK Bot
+# Minecraft AFK Bot
 ![Beta](https://img.shields.io/badge/Status-Beta-orange)
 ![offline false](https://img.shields.io/badge/Supports-online--mode%3Dfalse-gold)
 
